@@ -14,13 +14,13 @@ This API calculates the production plan for power plants based on the given payl
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/lmehdi89/example_payloads_python.git
+    git clone https://github.com/lmehdi89/PowerPlant.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd example_payloads
+    cd PowerPlant
     ```
 
 3. install requirements:
